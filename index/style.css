@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 120;
     box-sizing: border-box;
 }
 
@@ -11,6 +11,7 @@ body {
     line-height: 1.6;
 }
 .gateau{
+<<<<<<< HEAD
     background-color: white;
     border-radius: 10px;
     padding: 2rem;
@@ -18,3 +19,7 @@ body {
     max-width: 1000px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
+=======
+    
+}
+>>>>>>> 0afa369fce68c0383d1341fe1407f0c469e60bf2
